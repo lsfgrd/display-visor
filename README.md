@@ -1,7 +1,7 @@
 This is my personal fork of @beanaroo's display-visor.
 
 **Changed:**
-* xrandr commands to handle DP1, eDP1 e HDMI1;
+* xrandr commands to handle DP1, eDP1 and HDMI1;
 * udev rule;
 * space quantity because I hate 4 spaces but that's just me.
 
